@@ -1,0 +1,15 @@
+G:\GeekBrains\C#\home work2\задача15\bin\Debug\net6.0\задача15.exe
+G:\GeekBrains\C#\home work2\задача15\bin\Debug\net6.0\задача15.deps.json
+G:\GeekBrains\C#\home work2\задача15\bin\Debug\net6.0\задача15.runtimeconfig.json
+G:\GeekBrains\C#\home work2\задача15\bin\Debug\net6.0\задача15.dll
+G:\GeekBrains\C#\home work2\задача15\bin\Debug\net6.0\задача15.pdb
+G:\GeekBrains\C#\home work2\задача15\obj\Debug\net6.0\задача15.csproj.AssemblyReference.cache
+G:\GeekBrains\C#\home work2\задача15\obj\Debug\net6.0\задача15.GeneratedMSBuildEditorConfig.editorconfig
+G:\GeekBrains\C#\home work2\задача15\obj\Debug\net6.0\задача15.AssemblyInfoInputs.cache
+G:\GeekBrains\C#\home work2\задача15\obj\Debug\net6.0\задача15.AssemblyInfo.cs
+G:\GeekBrains\C#\home work2\задача15\obj\Debug\net6.0\задача15.csproj.CoreCompileInputs.cache
+G:\GeekBrains\C#\home work2\задача15\obj\Debug\net6.0\задача15.dll
+G:\GeekBrains\C#\home work2\задача15\obj\Debug\net6.0\refint\задача15.dll
+G:\GeekBrains\C#\home work2\задача15\obj\Debug\net6.0\задача15.pdb
+G:\GeekBrains\C#\home work2\задача15\obj\Debug\net6.0\задача15.genruntimeconfig.cache
+G:\GeekBrains\C#\home work2\задача15\obj\Debug\net6.0\ref\задача15.dll
