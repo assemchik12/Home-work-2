@@ -9,11 +9,24 @@
 
 
 Console.Write("Введи число: ");
-int anyNumber = Convert.ToInt32(Console.ReadLine());
-string anyNumberText = Convert.ToString(anyNumber);
-if (anyNumberText.Length > 2)
+int anyNumber = Math.Abs(int.Parse(Console.ReadLine()!));
+int num1  = anyNumber;
+int count = 0;
+while (num1 > 0)
 {
- Console.WriteLine("третья цифра -> " + anyNumberText[2]);
+ num1 /= 10;
+ count++;
 }
-else  
-Console.WriteLine("-> третьей цифры нет");
+if(count - 3 >= 0)
+{
+    while (count -3 > 0)
+{
+anyNumber = anyNumber / 10;
+count --;
+}
+Console.WriteLine($"Третья цифра {anyNumber % 10}");
+}
+else
+{
+    Console.WriteLine($"Третьей цифры нету");
+}
